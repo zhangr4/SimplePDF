@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplePDF.Core", "SimplePDF.Core\SimplePDF.Core.csproj", "{DD085297-4152-4C1D-BF01-730895E2FF34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplePDF.Core.Test", "SimplePDF.Core.Test\SimplePDF.Core.Test.csproj", "{9DEACC58-17D0-4F54-9D8E-944A3CC87467}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD085297-4152-4C1D-BF01-730895E2FF34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD085297-4152-4C1D-BF01-730895E2FF34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD085297-4152-4C1D-BF01-730895E2FF34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD085297-4152-4C1D-BF01-730895E2FF34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DEACC58-17D0-4F54-9D8E-944A3CC87467}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DEACC58-17D0-4F54-9D8E-944A3CC87467}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DEACC58-17D0-4F54-9D8E-944A3CC87467}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DEACC58-17D0-4F54-9D8E-944A3CC87467}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F382883A-319C-48F8-B93E-96D642E5261D}
+	EndGlobalSection
+EndGlobal
